@@ -1,15 +1,15 @@
 /*
- * Configuration Options for Detector
- * If config.ini doesn't exist Detector will attempt to read in config.ini.default
- * and write out the config.ini file.
- */
+* Configuration Options for Detector
+* If config.ini doesn't exist Detector will attempt to read in config.ini.default
+* and write out the config.ini file.
+*/
 
 // if we should run in debug mode. only useful if we want to view the site populated
 // w/ other Detector profiles
-debug                   = false
+debug                   = true
 
 // version number so that extended profiles can be rebuilt if necessary
-extendedVersion         = "1.0"
+extendedVersion         = "1.1"
 
 // where to find the features.js.php file from the web
 featuresScriptWebPath   = "/js/";
