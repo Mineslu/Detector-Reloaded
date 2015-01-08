@@ -8,3 +8,7 @@ Con “Detector” un diseñador Web o desarrollador  puede servir una mejor y a
 
 Puede ver una lista con toda la información que "Detector" pone en tus manos desde el siguiente enlace:
 http://detector.dmolsen.com/
+
+"Detector Reloader"  simplemente una ligera  mejora al original, corriguiendo algunos fallos y agregando funciones personalizadas de detección.
+
+Erick Mines L.
